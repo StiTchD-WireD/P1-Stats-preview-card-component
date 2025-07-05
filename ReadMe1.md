@@ -34,14 +34,14 @@ Second Attempt and Final Submission:
 ![Screenshot 2025-07-05 at 12-26-27 2nd Stats Preview Card Component.png](Screenshot%202025-07-05%20at%2012-26-27%202nd%20Stats%20Preview%20Card%20Component.png)
 
 
-[[Screenshot 2025-07-05 at 12-27-15 2nd Stats Preview Card Component.png](Screenshot%202025-07-05%20at%2012-26-27%202nd%20Stats%20Preview%20Card%20Component.png)
+![Screenshot 2025-07-05 at 12-27-15 2nd Stats Preview Card Component.png](Screenshot%202025-07-05%20at%2012-26-27%202nd%20Stats%20Preview%20Card%20Component.png)
 
 
 
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://github.com/StiTchD-WireD/P1-Stats-preview-card-component)](https://stitchd-wired.github.io/P1-Stats-preview-card-component/)
+- Solution URL: [[Add solution URL here](https://github.com/StiTchD-WireD/P1-Stats-preview-card-component)
 - Live Site URL: [Add live site URL here](https://stitchd-wired.github.io/P1-Stats-preview-card-component/)
 
 ## My process
@@ -51,7 +51,7 @@ Second Attempt and Final Submission:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
+
 
 
 ### What I learned
