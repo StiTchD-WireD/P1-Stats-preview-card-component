@@ -41,8 +41,8 @@ Second Attempt and Final Submission:
 
 ### Links
 
-- Solution URL: [[Add solution URL here](https://github.com/StiTchD-WireD/P1-Stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://stitchd-wired.github.io/P1-Stats-preview-card-component/)
+- Solution URL: [[Solution URL here](https://github.com/StiTchD-WireD/P1-Stats-preview-card-component)
+- Live Site URL: [Live site URL here](https://stitchd-wired.github.io/P1-Stats-preview-card-component/)
 
 ## My process
 
@@ -59,9 +59,7 @@ Second Attempt and Final Submission:
 1. Image: Adding a color overlay to an image, and adjusting hsl, opacity and contrast.
 2. Planning and using div classes.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+
 ```css
 /* Image*/
 
