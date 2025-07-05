@@ -103,8 +103,8 @@ Practice positioning and control of images, e.g. using a % to allow for responsi
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Stitch](https://stitchd-wired.github.io/P1-Stats-preview-card-component/)
+- Frontend Mentor - [@StiTchD-WireD](https://www.frontendmentor.io/profile/StiTchD-WireD))
 
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
