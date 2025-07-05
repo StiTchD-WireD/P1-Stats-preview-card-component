@@ -14,9 +14,7 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
     - [Continued development](#continued-development)
     - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -36,7 +34,7 @@ Second Attempt and Final Submission:
 ![Screenshot 2025-07-05 at 12-26-27 2nd Stats Preview Card Component.png](Screenshot%202025-07-05%20at%2012-26-27%202nd%20Stats%20Preview%20Card%20Component.png)
 
 
-[[ScreenshotPreview%20Card%20Component.png](https://github.com/StiTchD-WireD/P1-Stats-preview-card-component/blob/f9d55097388040d3173879e3d81c6d896e1ad66b/Screenshot%202025-07-05%20at%2012-26-27%202nd%20Stats%20Preview%20Card%20Component.png))](https://github.com/StiTchD-WireD/P1-Stats-preview-card-component/blob/2nd-Stats-Preview-Card-Component.html/Screenshot%202025-07-05%20at%2012-27-15%202nd%20Stats%20Preview%20Card%20Component.png)
+[[Screenshot 2025-07-05 at 12-27-15 2nd Stats Preview Card Component.png](Screenshot%202025-07-05%20at%2012-26-27%202nd%20Stats%20Preview%20Card%20Component.png)
 
 
 
