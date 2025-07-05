@@ -1,5 +1,4 @@
 # Frontend Mentor - Stats preview card component solution
-FIRST ATTEMPT!
 
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -29,7 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
+First Attempt:
 ![Screenshot first attempt Stats Preview Card Component.png](images/Screenshot%20first%20attempt%20Stats%20Preview%20Card%20Component.png)
+
+Second Attempt and Final Submission:
+
+
+
 
 ### Links
 
@@ -137,7 +142,10 @@ Users should be able to:
 
 ### Screenshot
 
+First Attempt:
 ![Screenshot first attempt Stats Preview Card Component.png](images/Screenshot%20first%20attempt%20Stats%20Preview%20Card%20Component.png)
+
+Second Attempt:
 
 
 Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
