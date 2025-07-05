@@ -33,7 +33,7 @@ First Attempt:
 ______________________
 
 Second Attempt and Final Submission:
-![ScreenshotPreview%20Card%20Component.png] (Screenshot%202025-07-05%20at%2012-26-27%202nd%20Stats%20Preview%20Card%20Component.png)
+![Screenshot 2025-07-05 at 12-26-27 2nd Stats Preview Card Component.png] (Screenshot%202025-07-05%20at%2012-26-27%202nd%20Stats%20Preview%20Card%20Component.png)
 
 
 [[ScreenshotPreview%20Card%20Component.png](https://github.com/StiTchD-WireD/P1-Stats-preview-card-component/blob/f9d55097388040d3173879e3d81c6d896e1ad66b/Screenshot%202025-07-05%20at%2012-26-27%202nd%20Stats%20Preview%20Card%20Component.png))](https://github.com/StiTchD-WireD/P1-Stats-preview-card-component/blob/2nd-Stats-Preview-Card-Component.html/Screenshot%202025-07-05%20at%2012-27-15%202nd%20Stats%20Preview%20Card%20Component.png)
@@ -104,16 +104,12 @@ Practice positioning and control of images, e.g. using a % to allow for responsi
 ## Author
 
 - Website - [Stitch](https://stitchd-wired.github.io/P1-Stats-preview-card-component/)
-- Frontend Mentor - [@StiTchD-WireD](https://www.frontendmentor.io/profile/StiTchD-WireD))
+- Frontend Mentor - [@StiTchD-WireD](https://www.frontendmentor.io/profile/StiTchD-WireD)
 
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
-## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
 
 
 
