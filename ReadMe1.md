@@ -31,7 +31,7 @@ First Attempt:
 ______________________
 
 Second Attempt and Final Submission:
-![Screenshot 2025-07-05 at 12-26-27 2nd Stats Preview Card Component.png](Screenshot%202025-07-05%20at%2012-26-27%202nd%20Stats%20Preview%20Card%20Component.png)
+![Screenshot Browser Viewpoint.png](images/Screenshot%20Browser%20Viewpoint.png)
 
 
 ![Screenshot 2025-07-05 at 12-27-15 2nd Stats Preview Card Component.png](Screenshot%202025-07-05%20at%2012-27-15%202nd%20Stats%20Preview%20Card%20Component.png)
