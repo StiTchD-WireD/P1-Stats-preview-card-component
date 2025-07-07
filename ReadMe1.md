@@ -41,7 +41,7 @@ Second Attempt and Final Submission:
 
 ### Links
 
-- Solution URL: [[Solution URL here](https://github.com/StiTchD-WireD/P1-Stats-preview-card-component)
+- Solution URL: [Solution URL here](https://github.com/StiTchD-WireD/P1-Stats-preview-card-component)
 - Live Site URL: [Live site URL here](https://stitchd-wired.github.io/P1-Stats-preview-card-component/)
 
 ## My process
